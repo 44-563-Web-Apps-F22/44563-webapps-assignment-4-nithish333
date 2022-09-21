@@ -66,3 +66,20 @@
       .name{
         padding: 5px;
       }
+      ul {
+        background-color: #4C275C;
+        display: flex;
+        padding: 10px;
+
+    }
+    li{
+        list-style: none;
+        padding-right: 15px;
+    }
+    li a{
+        
+        color: white;
+        text-decoration: none;
+    }
+          
+    

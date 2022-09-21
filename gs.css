@@ -41,3 +41,19 @@ color: #B3B6E3;
 font-weight: bolder;
 font-size: 25px;
 }
+table,th,td{
+    margin: 1px solid #ddd;
+    border-collapse: collapse;
+    width: 40%;
+}
+
+th {
+    padding: 12px;
+    text-align: left;
+    background-color: #4C275C;
+    color: white;
+  }
+  td{
+    padding: 8px;
+  }
+  tr:nth-child(even){background-color: #f2f2f2;}

@@ -64,6 +64,6 @@ th {
     
   }
   .name{
-    display: inline-block;
+    /* display: inline-block; */
     padding: 5px;
   }
